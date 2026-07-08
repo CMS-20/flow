@@ -1,10 +1,8 @@
 {
   "reviews": 2,
   "comments": 1,
-  "prState": "OPEN",
-  "merged": false,
-  "notifiedTerminal": false,
-  "accessIssue": true,
-  "accessIssueNotified": true,
-  "note": "Session GitHub scope is restricted to cms-20/flow; programmersd21/flow (upstream PR #18) is not accessible via API or MCP in this environment. Baseline counts are unverified placeholders carried over from routine setup."
+  "prState": "CLOSED",
+  "merged": true,
+  "notifiedTerminal": true,
+  "note": "PR #18 merged by programmersd21 on 2026-07-07 (merge commit 7c3ad54), confirmed via WebFetch since direct GitHub API/MCP access to programmersd21/flow is blocked for this session's scope (cms-20/flow only)."
 }
